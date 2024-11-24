@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TestWebRepo/static/css/main.f855e6bc.css",
+    "main.js": "/TestWebRepo/static/js/main.7dcb0f82.js",
+    "static/js/453.c5932eb1.chunk.js": "/TestWebRepo/static/js/453.c5932eb1.chunk.js",
+    "static/media/logo.svg": "/TestWebRepo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TestWebRepo/index.html",
+    "main.f855e6bc.css.map": "/TestWebRepo/static/css/main.f855e6bc.css.map",
+    "main.7dcb0f82.js.map": "/TestWebRepo/static/js/main.7dcb0f82.js.map",
+    "453.c5932eb1.chunk.js.map": "/TestWebRepo/static/js/453.c5932eb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7dcb0f82.js"
+  ]
+}
